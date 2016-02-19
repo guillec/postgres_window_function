@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  human_id: 1
+  kind: 1
+  kind: 
+
+two:
+  human_id: 1
+  kind: 1
+  kind: 
